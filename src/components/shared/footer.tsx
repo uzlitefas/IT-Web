@@ -30,7 +30,7 @@ const Footer = () => {
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                 Necessitatibus in odio perspiciatis deleniti similique quo atque
                 quia quae corrupti ullam modi vero veritatis repellendus, quod
-                aut! Quia corporis natus atque.
+                aut! Quia corporis natus atqu.
               </p>
             </div>
 
