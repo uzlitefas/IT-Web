@@ -1,10 +1,10 @@
-import Footer from "@/components/shared/footer";
+import Comment from "./comment/comment";
 
 const Home = () => {
   return (
     <div>
       Home
-      <Footer />
+      <Comment/>
     </div>
   );
 };
