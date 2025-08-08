@@ -1,13 +1,13 @@
-import Footer from "@/components/shared/footer";
+import Hero from "@/components/hero/hero";
+import Footer from "../components/shared/footer";
 
 const Home = () => {
   return (
     <div>
-      Home
+      <Hero />
       <Footer />
     </div>
   );
 };
-
 
 export default Home;
